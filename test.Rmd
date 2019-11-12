@@ -1,7 +1,0 @@
----
-title: "Test R Notebook"
-author: "Ahmed Hasan"
-output: pdf_document
----
-
-Hello!
